@@ -1,7 +1,7 @@
 # 🎬 Movie Recommendation System | Data Analytics Project  
 
 This project showcases an a Python recommendation engine thats designed to analyze movie rating data and generate personalized movie suggestions.  
-It demonstrates core data analytics, data processing, and AI-driven automation skills — combining Python programming, data aggregation, and chatbot-assisted code generation to create a fully functional analytical tool.
+It demonstrates core data analytics, data processing, and AI-driven automation skills — combining Python programming, data aggregation, and a fully functional analytical tool.
 
 ---
 
@@ -28,5 +28,6 @@ core logic and automated testing modules, emphasizing clean data flow, error han
 - Languages: Python 3.12  
 - Libraries: NumPy, Pandas (for future scaling), SciPy (potential extension for statistical testing)  
 - Concepts: Data Cleaning | Aggregation | Filtering | Recommendation Logic | Edge Case Validation  
+
 
 
